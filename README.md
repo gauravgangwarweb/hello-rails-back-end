@@ -109,7 +109,7 @@ In order to run this project you need:
 
 ## 👥 Authors<a name="authors"></a>
 
-👤 **Rohit Bhatt**
+👤 **Gaurav Gangwar**
 
 - GitHub: [@gauravgangwarweb](https://github.com/gauravgangwarweb)
 - Twitter: [@gauravgangwar](https://twitter.com/gauravgangwar501)
